@@ -45,7 +45,7 @@ L10nLight/
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/soewal19/L10nLight
 cd L10nLight
 
 # Create virtual environment

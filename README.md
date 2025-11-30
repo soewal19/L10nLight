@@ -55,7 +55,7 @@ app/
 
 1. **Клонирование репозитория:**
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/soewal19/L10nLight)
 cd l10nlight
 ```
 

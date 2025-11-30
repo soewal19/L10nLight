@@ -4,7 +4,7 @@
 
 ### 1. Клонирование и установка
 ```bash
-git clone <repository-url>
+git clone https://github.com/soewal19/L10nLight
 cd L10nLight
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
